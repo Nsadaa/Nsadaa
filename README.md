@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilshan Sadaruwan
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data Analysis | Data Visualization | Machine Leaning | Big Data 
 - 🌱 I’m currently learning Data science , Big Data , Machine Leranig
 - 📫 How to reach me Gmail : sadaruwannilshan@gmail.com | Linkedin : Nilshan Sadaruwan
 
