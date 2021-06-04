@@ -1,5 +1,5 @@
 ## Hi, I’m Nilshan Sadaruwan
-- 👀 I’m interested in Data Analysis | Data Visualization | Machine Leaning | Big Data 
+- 👀 I’m interested in Data Analysis | Data Visualization | Machine Leaning 
 - 🌱 I’m currently learning Bussiness Inteligence , Big Data , Deep Leranig
 - 📫 How to reach me Gmail : sadaruwannilshan@gmail.com | Linkedin : Nilshan Sadaruwan
 
